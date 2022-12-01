@@ -1,4 +1,4 @@
-#  Test Project
+# README Generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
 
 ## Github URL
@@ -7,7 +7,7 @@
 
 ## Description 
 
- This project is designed to be a test for this assignment. 
+A simple Node.js based tool created to help users create README's for their future projects.
 
 
 ## Table of Contents
@@ -37,7 +37,7 @@ npm i
 
 ## Usage
 
- Proivde instructions on how to use the app/repo here.
+User is asked a series of questions that will build a README base on how the questions are answered. 
 
 ## License
 
